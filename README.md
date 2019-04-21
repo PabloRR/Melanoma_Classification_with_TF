@@ -1,5 +1,5 @@
 
-#About The Files
+##About The Files
 
 1. `DataProcessor.py` : To augment and process the images stored in two directories in the master directory `images`.
 2. `MainFile` : Brings the model and data together for training and evaluation.
