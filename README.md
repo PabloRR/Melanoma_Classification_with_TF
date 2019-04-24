@@ -1,4 +1,8 @@
 
+# Android Project
+
+The Android project is available on GitHub at https://github.com/shubham0204/Skinly_for_Melanoma
+
 # Android application
 
 The Android application is available on the Google Play Store at https://play.google.com/store/apps/details?id=com.health.inceptionapps.skinly .
